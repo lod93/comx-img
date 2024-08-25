@@ -1,5 +1,20 @@
-communex 
+# Core dependencies for CommuneX and general functionality
+communex
 typer
 uvicorn
 keylimiter
 pydantic-settings
+
+# Blockchain interaction
+substrate-interface
+
+# Machine Learning and AI model dependencies
+torch
+transformers
+Pillow  # For image processing
+
+# Utilities
+concurrent.futures
+asyncio
+functools
+re
