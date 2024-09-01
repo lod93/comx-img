@@ -1,4 +1,7 @@
-# ComX-Img
+## ⚠️ Warning: Experimental Stage
+
+**This project is currently an experiment and is not fully functional yet.**  
+Use with caution, and expect significant changes or issues as development progresses.
 
 ComX-Img is a decentralized system for generating and validating images using AI models within the CommuneX protocol. This repository contains the implementation for both mining (image generation) and validation (image scoring) components. The system utilizes various AI models for generating images and validating them against given prompts.
 
